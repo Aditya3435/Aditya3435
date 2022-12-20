@@ -72,13 +72,14 @@ I am a Full Stack Developer and a Competitive Programmer <img src="https://media
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aditya3435&theme=vision-friendly-dark&layout=compact)](https://git.io/streak-stats)
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya3435&layout=compact&theme=vision-friendly-dark)
 
-<div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya3435&layout=compact&theme=vision-friendly-dark"/>
+<div id="stats" style="display:flex;flex-direction:row;" align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Aditya3435&theme=vision-friendly-dark&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya3435&layout=compact&theme=vision-friendly-dark"/>
   </div>
- 
+ <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya3435&layout=compact&theme=vision-friendly-dark"/>
+</div>
 
 ---
 
