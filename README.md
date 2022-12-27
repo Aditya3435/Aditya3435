@@ -18,14 +18,12 @@
     
 </div>
   <img src="https://komarev.com/ghpvc/?username=Aditya3435&style=flat-square&color=blue" alt=""/>
-  
-
 </div>
 
----
+--- 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer and a Competitive Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack MERN Developer and a Competitive Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :earth_asia: I’m working as a Web Developer at [Pixonoids](https://github.com/pixonoids) and contributing to frontend and backend for building web applications.
 
 - :computer: I am also a competitive programmer at [Codechef](https://www.codechef.com/users/aditya3435), [Codeforces](https://codeforces.com/profile/aditya3435) and [Leetcode](https://leetcode.com/aditya3435/).
@@ -36,9 +34,9 @@ I am a Full Stack Developer and a Competitive Programmer <img src="https://media
 
 - :maple_leaf: My hobbies include photography, cricket and watching anime.
 
-- :mailbox:How to reach me: 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/aditya-maurya-490081b4)
-
+- :mailbox:How to reach me:  <a href="https://in.linkedin.com/in/aditya-maurya-490081b4">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn Badge"/>
+  </a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -55,10 +53,13 @@ I am a Full Stack Developer and a Competitive Programmer <img src="https://media
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" **alt="tailwindcss" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" title="Electron" **alt="Electron" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
